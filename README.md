@@ -1,4 +1,4 @@
-# bot
+# bot status metro
 
 BOT STATUS METRO: Com esse bot em algum grupo do Telegram, é só digitar:
 * /1 para saber status da linha 1 azul do metro
