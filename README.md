@@ -1,12 +1,14 @@
 # bot status metro
 
+> Um bot para sabermos o status de funcionamento das linhas de metro de São Paulo direto do nosso grupo de Telegram 
+
 ## Como utilizar o bot
 
 Para utilizar o bot, basta que enviemos os seguintes comandos em nosso grupo:
 
 * /linha: para saber status da linha 1 azul do metro
 * /help para ver todos os comandos
-/linhas-metro para ver todas as linhas e saber o código referente
+* /linhas-metro para ver todas as linhas e saber o código referente
 
 ## Exemplo de uso
 
