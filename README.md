@@ -14,4 +14,18 @@ Para sabermos o status da linha azul do metro, rodamos o comando `/1`.
 
 ![Rodando o comando /1 no Telegram](https://i.imgur.com/cB01vnc.png)
 
-USAR O BOT: Para utilizar o bot é só adicionar o usuário `@metro_status_bot` no grupo
+## Como instalar no meu grupo
+
+Para utilizar o bot é só adicionar o usuário `@metro_status_bot` no grupo.
+
+Acesse as informações do grupo e clique em add member, como se fosse adicionar um outro usuário normal.
+
+![Add member](https://i.imgur.com/9s4JKcH.png)
+
+Procure pelo `@metro_status_bot` e adicione ao grupo.
+
+![Encontrando o bot](https://i.imgur.com/S4KWc8X.png)
+
+E pronto!
+
+![Bot no nosso grupo](https://i.imgur.com/X7flYH9.png)
