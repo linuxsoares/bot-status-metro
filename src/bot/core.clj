@@ -87,13 +87,13 @@
     (fn [{{id :id :as chat} :chat}]
       (println "Get all subway lines. " chat)
       (t/send-text token id formated-subway-linas-name)))
-
-
   
   (h/message-fn
     (fn [{{id :id} :chat :as message}]
       (println "Intercepted message: " message)
-      (t/send-text token id (status (message :text))))))
+      (if message
+        (t/send-text token id (status (message :text)))
+        (println "Intercepted message: " message)))))
          
 (defn -main
   [& args]
